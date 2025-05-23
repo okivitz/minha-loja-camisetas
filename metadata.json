@@ -1,0 +1,6 @@
+{
+  "name": "T-shirt Manager",
+  "description": "An application to manage T-shirt inventory, production, and sales. Track plain t-shirts, prints, finished products, and sales performance through a comprehensive dashboard.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

@@ -1,5 +1,5 @@
 
-import { createClient, SupabaseClient } from 'https://esm.sh/@supabase/supabase-js@2'; // Using esm.sh for browser compatibility
+import { createClient, SupabaseClient } from 'supabase-js'; // Alterado de URL direta para chave da importmap
 
 // Estas são suas credenciais Supabase reais
 const SUPABASE_URL: string = 'https://bykwsieounpkdrdrhnyg.supabase.co';
